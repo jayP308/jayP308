@@ -1,16 +1,15 @@
-### Hi there 👋
+# JP Padilla
 
-<!--
-**jayP308/jayP308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## - Hello! I'm jayP308
+ ## - I'm a Full Stack Software Developer
+ ## - I’m currently learning Python, Java, and React
+ ## - I’m looking to collaborate with anyone interested 
+ ## - Ask me about anything, I'm an open book.
+ ## - Fun fact: Make music and Bake on my spare time 
+ ## - How to reach me: 
+    * Github: https://github.com/jayP308
+    * LinkedIn: https://www.linkedin.com/in/jp-padilla-038854251/
+    * Slacks: https://app.slack.com/client/TMX6ZRA2V/CMQRKLZK4
+    * Discord: username: jayP308#2361
+    * Instagram: https://www.instagram.com/jeeeeppeee/
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
