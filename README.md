@@ -2,8 +2,6 @@
 - Hello! I'm @jayP308
 - Full Stack Software Developer
 - I’m currently learning Python, Java, and React
-- I’m looking to collaborate with anyone interested 
-- Ask me about anything, I'm an open book.
 - Fun fact: Make music on my spare time 
 - How to reach me: 
     - Github: https://github.com/jayP308
